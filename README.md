@@ -1,6 +1,6 @@
 # german-plural-predict
 
-A final project for Umich's LING 441 (Into to Comp Ling).
+A final project for Umich's LING 441 (Intro to Comp Ling).
 
 This project trains a model on a randomized subset of the data to predict (both written and phonemized) plural forms of German nouns, and tests the accuracy on the remaining subset of data. 
 
