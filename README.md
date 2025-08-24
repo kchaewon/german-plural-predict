@@ -1,4 +1,4 @@
-# german-plural-predict
+# german_plural_predict
 
 A final project for Umich's LING 441 (Intro to Comp Ling).
 
